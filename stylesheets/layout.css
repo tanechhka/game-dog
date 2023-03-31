@@ -1,5 +1,6 @@
 /* основное */
 
+
 .button {
   position: absolute;
   width: 31.04vw;
@@ -74,7 +75,8 @@
   position: absolute;
   top: 49.31vw;
   left: 4.17vw;
-  font-family: 'PPPangramSansRounded-Bold';
+  font-family: 'PPPangramSansRounded';
+  font-weight: 700;
   font-size: 2.22vw;
   animation: one 1s ease-in;
   width: 20.42vw;
@@ -133,7 +135,8 @@
   position: relative;
   top: 0.69vw;
   left: 7.15vw;
-  font-family: 'PPPangramSansRounded-Bold';
+  font-family: 'PPPangramSansRounded';
+  font-weight: 700;
   font-size: 4.44vw;
 }
 
@@ -206,7 +209,8 @@
   position: relative;
   top: 61.94vw;
   left: 3.54vw;
-  font-family: 'PPPangramSansRounded-Bold';
+  font-family: 'PPPangramSansRounded';
+  font-weight: 700;
   font-size: 4.44vw;
   display: flex;
   margin: 0.69vw;
@@ -756,7 +760,8 @@ svg {
 
 #p1 {
   position: absolute;
-  font-family: 'PPPangramSansRounded-Bold';
+  font-family: 'PPPangramSansRounded';
+  font-weight: 700;
   font-size: 3.33vw;
   top: 4.17vw;
   left: 4.17vw;
@@ -765,7 +770,8 @@ svg {
 
 #p2 {
   position: absolute;
-  font-family: 'PPPangramSansRounded-Bold';
+  font-family: 'PPPangramSansRounded';
+  font-weight: 700;
   font-size: 3.33vw;
   top: 10.76vw;
   left: 27.08vw;
@@ -774,7 +780,8 @@ svg {
 
 #p3 {
   position: absolute;
-  font-family: 'PPPangramSansRounded-Bold';
+  font-family: 'PPPangramSansRounded';
+  font-weight: 700;
   font-size: 3.33vw;
   top: 43.75vw;
   left: 7.99vw;
@@ -783,7 +790,8 @@ svg {
 
 #p4 {
   position: absolute;
-  font-family: 'PPPangramSansRounded-Bold';
+  font-family: 'PPPangramSansRounded';
+  font-weight: 700;
   font-size: 3.33vw;
   top: 47.71vw;
   left: 27.08vw;
@@ -864,7 +872,8 @@ svg {
   position: relative;
   top: 0.69vw;
   left: 7.15vw;
-  font-family: 'PPPangramSansRounded-Bold';
+  font-family: 'PPPangramSansRounded';
+  font-weight: 700;
   font-size: 4.44vw;
 }
 /* пятый экран */
@@ -994,7 +1003,8 @@ svg {
   position: relative;
   top: 0.69vw;
   left: 7.15vw;
-  font-family: 'PPPangramSansRounded-Bold';
+  font-family: 'PPPangramSansRounded';
+  font-weight: 700;
   font-size: 4.44vw;
 }
 
@@ -1014,7 +1024,8 @@ svg {
   position: relative;
   top: 2.99vw;
   left: 5.69vw;
-  font-family: 'PPPangramSansRounded-Bold';
+  font-family: 'PPPangramSansRounded';
+  font-weight: 700;
   font-size: 2.22vw;
   z-index: 2;
 }
@@ -1133,7 +1144,8 @@ svg {
   position: relative;
   top: 0.69vw;
   left: 6.94vw;
-  font-family: 'PPPangramSansRounded-Bold';
+  font-family: 'PPPangramSansRounded';
+  font-weight: 700;
   font-size: 4.44vw;
 }
 
@@ -1184,7 +1196,8 @@ svg {
   position: absolute;
   top: 16.46vw;
   left: 29.44vw;
-  font-family: 'PPPangramSansRounded-Bold';
+  font-family: 'PPPangramSansRounded';
+  font-weight: 700;
   font-size: 8.75vw;
   letter-spacing: 0.63vw;
 }
@@ -1193,7 +1206,8 @@ svg {
   position: absolute;
   top: 28.40vw;
   left: 27.57vw;
-  font-family: 'PPPangramSansRounded-Bold';
+  font-family: 'PPPangramSansRounded';
+  font-weight: 700;
   font-size: 2.50vw;
   letter-spacing: 0.14vw;
   line-height: 3.47vw;
@@ -1210,7 +1224,8 @@ svg {
   position: relative;
   top: 0.69vw;
   left: 5.69vw;
-  font-family: 'PPPangramSansRounded-Bold';
+  font-family: 'PPPangramSansRounded';
+  font-weight: 700;
   font-size: 4.44vw;
 }
 
@@ -1240,7 +1255,8 @@ svg {
   position: absolute;
   top: 16.94vw;
   left: 33.61vw;
-  font-family: 'PPPangramSansRounded-Bold';
+  font-family: 'PPPangramSansRounded';
+  font-weight: 700;
   font-size: 8.75vw;
   letter-spacing: 0.63vw;
 }
@@ -1249,7 +1265,8 @@ svg {
   position: absolute;
   top: 28.40vw;
   left: 33.61vw;
-  font-family: 'PPPangramSansRounded-Bold';
+  font-family: 'PPPangramSansRounded';
+  font-weight: 700;
   font-size: 2.50vw;
   letter-spacing: 0.14vw;
   line-height: 3.47vw;
@@ -1266,7 +1283,8 @@ svg {
   position: relative;
   top: 0.69vw;
   left: 5.69vw;
-  font-family: 'PPPangramSansRounded-Bold';
+  font-family: 'PPPangramSansRounded';
+  font-weight: 700;
   font-size: 4.44vw;
 }
 
@@ -1291,7 +1309,8 @@ svg {
   position: absolute;
   top: 20.63vw;
   left: 33.61vw;
-  font-family: 'PPPangramSansRounded-Bold';
+  font-family: 'PPPangramSansRounded';
+  font-weight: 700;
   font-size: 8.75vw;
   letter-spacing: 0.63vw;
 }
@@ -1300,7 +1319,8 @@ svg {
   position: absolute;
   top: 31.53vw;
   left: 34.51vw;
-  font-family: 'PPPangramSansRounded-Bold';
+  font-family: 'PPPangramSansRounded';
+  font-weight: 700;
   font-size: 2.50vw;
   letter-spacing: 0.14vw;
   line-height: 3.47vw;
@@ -1317,7 +1337,8 @@ svg {
   position: relative;
   top: 0.69vw;
   left: 5.69vw;
-  font-family: 'PPPangramSansRounded-Bold';
+  font-family: 'PPPangramSansRounded';
+  font-weight: 700;
   font-size: 4.44vw;
 }
 
