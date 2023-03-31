@@ -1,8 +1,6 @@
 @font-face {
-    font-family: 'PPPangramSansRounded-Bold';
-    font-weight: normal;
+    font-family: 'PPPangramSansRounded';
+    font-weight: 700;
     font-style: normal;
-    src: url('PPPangramSansRounded-Bold.otf');
-    src: local('PPPangramSansRounded-Bold'),
-        url('PPPangramSansRounded-Bold.otf') format('otf');
+    src: url('../font/PPPangramSansRounded-Bold/PPPangramSansRounded-Bold.otf');
 }
