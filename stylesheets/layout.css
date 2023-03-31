@@ -26,6 +26,7 @@
   height: 6.60vw;
   margin: 1.04vw 0px 1.04vw 0px;
   background: url(../images/mouse1.svg);
+  background-size: 100%;
   z-index: 1;
 }
 
@@ -47,6 +48,7 @@
   height: 6.60vw;
   margin: 1.04vw 0px 1.04vw 0px;
   background: url(../images/mouse3.svg);
+  background-size: 100%;
   z-index: 1;
 }
 
@@ -91,6 +93,7 @@
   height: 12.64vw;
   width: 23.61vw;
   background: url(../images/pills.svg);
+  background-size: 100%;
   transform: rotate(42deg);
 }
 
@@ -101,6 +104,7 @@
   height: 8.33vw;
   width: 23.61vw;
   background: url(../images/plastir.svg);
+  background-size: 100%;
   transform: rotate(46deg);
 }
 
@@ -111,6 +115,7 @@
   height: 7.36vw;
   width: 28.33vw;
   background: url(../images/nasos.svg);
+  background-size: 100%;
   transform: rotate(-36deg);
 }
 
@@ -162,6 +167,7 @@
   width: 3.47vw;
   height: 3.47vw;
   background: url(../images/smalleye.svg);
+  background-size: 100%;
   position: absolute;
   left: 1.25vw;
   border-radius: 100%;
@@ -310,6 +316,7 @@
   height: 12.64vw;
   width: 23.61vw;
   background: url(../images/pills2.svg);
+  background-size: 100%;
   transform: rotate(42deg);
 }
 
@@ -320,6 +327,7 @@
   height: 5.56vw;
   width: 15.97vw;
   background: url(../images/plastir2.svg);
+  background-size: 100%;
   transform: rotate(41deg);
 }
 
@@ -330,6 +338,7 @@
   height: 5.56vw;
   width: 21.25vw;
   background: url(../images/nasos2.svg);
+  background-size: 100%;
   transform: rotate(-52deg);
 }
 
@@ -340,6 +349,7 @@
   height: 9.86vw;
   width: 22.50vw;
   background: url(../images/molotok2.svg);
+  background-size: 100%;
   transform: rotate(-44deg);
 }
 
@@ -656,6 +666,7 @@ svg {
   height: 6.25vw;
   transform: rotate(36deg);
   background: url(../images/tabletka.svg);
+  background-size: 100%;
   z-index: 2;
 }
 
@@ -695,6 +706,7 @@ svg {
   height: 22.78vw;
   transform: rotate(16deg);
   background: url(../images/kusoklapi.svg);
+  background-size: 100%;
 }
 .kusoklapi2 {
   position: absolute;
@@ -704,6 +716,7 @@ svg {
   height: 22.78vw;
   transform: rotate(16deg);
   background: url(../images/kusoklapi2.svg);
+  background-size: 100%;
 }
 .kusoklapi3 {
   position: absolute;
@@ -713,6 +726,7 @@ svg {
   height: 16.04vw;
   transform: rotate(16deg);
   background: url(../images/kusoklapi3.svg);
+  background-size: 100%;
 }
 .kusoklapi4 {
   position: absolute;
@@ -722,6 +736,7 @@ svg {
   height: 15.97vw;
   transform: rotate(16deg);
   background: url(../images/kusoklapi4.svg);
+  background-size: 100%;
 }
 .kusoklapi5 {
   position: absolute;
@@ -731,6 +746,7 @@ svg {
   height: 15.63vw;
   transform: rotate(16deg);
   background: url(../images/kusoklapi5.svg);
+  background-size: 100%;
 }
 .podskazka {
   position: absolute;
@@ -781,6 +797,7 @@ svg {
   width: 6.67vw;
   height: 23.19vw;
   background: url(../images/lapa1.svg);
+  background-size: 100%;
   transform: rotate(-135deg);
 }
 
@@ -791,6 +808,7 @@ svg {
   width: 233px;
   height: 22.71vw;
   background: url(../images/lapa2.svg);
+  background-size: 100%;
   transform: rotate(-60deg);
 }
 
@@ -801,6 +819,7 @@ svg {
   width: 22.29vw;
   height: 16.32vw;
   background: url(../images/lapa3.svg);
+  background-size: 100%;
   transform: rotate(60deg);
 }
 
@@ -811,6 +830,7 @@ svg {
   width: 17.36vw;
   height: 16.11vw;
   background: url(../images/lapa4.svg);
+  background-size: 100%;
   transform: rotate(-15deg);
 }
 .lapa5 {
@@ -820,6 +840,7 @@ svg {
   width: 84px;
   height: 15.69vw;
   background: url(../images/lapa5.svg);
+  background-size: 100%;
   transform: rotate(60deg);
 }
 #mscreen41 {
@@ -862,6 +883,7 @@ svg {
   width: 13.89vw;
   height: 13.89vw;
   background: url(../images/volosi.svg);
+  background-size: 100%;
   background-attachment: fixed;
   border-radius: 50%/50%;
   z-index: 1;
@@ -873,6 +895,7 @@ svg {
   width: 100%;
   height: 100%;
   background: url(../images/volosi2.svg), url(../images/volosi.svg);
+  background-size: 100%;
   background-attachment: fixed;
   overflow: hidden;
 }
@@ -1012,6 +1035,7 @@ svg {
   height: 23.26vw;
   transform: rotate(112deg);
   background: url(../images/nasoss.svg);
+  background-size: 100%;
 }
 .hvost {
   position: absolute;
@@ -1121,6 +1145,7 @@ svg {
   height: 23.26vw;
   transform: rotate(116deg);
   background: url(../images/nasoss.svg);
+  background-size: 100%;
 }
 
 /* восьмой экран */
@@ -1142,6 +1167,7 @@ svg {
   height: 23.26vw;
   transform: rotate(107deg);
   background: url(../images/nasoss.svg);
+  background-size: 100%;
 }
 
 /* девятый экран */
